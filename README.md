@@ -29,12 +29,6 @@
 - Technologies: Python, Scikit-learn, TensorFlow, Data Analysis
 - Data preprocessing, model training, and evaluation
 
-### 🌐 [Web Application Login System](https://github.com/EaglesNest-01/Milestone-1-Web-Application-Login-Registration-System)
-*Full-stack web application with secure authentication and user management*
-- User registration and login functionality
-- Technologies: HTML, CSS, JavaScript, Backend Authentication
-- Secure authentication and session management
-
 ### 🗄️ [Full-Stack CRUD Application](https://github.com/EaglesNest-01/CRUD-APP)
 *Complete Create, Read, Update, Delete application with intuitive interface*
 - Full CRUD operations with database integration
