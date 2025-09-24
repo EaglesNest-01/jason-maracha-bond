@@ -119,7 +119,7 @@
 
 - **Email:** rmarachab@gmail.com
 - **Location:** *Pretoria, South Africa*
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/jason-maracha-bond)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jason-maracha-bond-a39760255/)
 
 **Always excited to collaborate on projects that combine AI, data science, and impactful software development!**
 
