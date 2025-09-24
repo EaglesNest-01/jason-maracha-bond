@@ -35,10 +35,10 @@
 - Technologies: JavaScript, Database Management, API Development
 - Database design and optimization
 
-### 🎓 [Student Management System](https://github.com/EaglesNest-01/StudentManagemen...)
+### 🎓 [Student Management System](https://github.com/EaglesNest-01/StudentManagementPortal_M1)
 *Comprehensive student information management platform*
 - Student data management and administrative functions
-- Technologies: Full-Stack Development, Database Design
+- Technologies: HTML, CSS, Java, ApacheNetBeans
 - User role management and access control
 
 ### 🏥 [Wellness Management System](https://github.com/EaglesNest-01/WellnessManageme...)
@@ -56,7 +56,7 @@
 ### 💻 [Web Programming Assignment](https://github.com/jaderiley/WPR-Assignment)
 - Comprehensive web development coursework demonstrating modern practices*
 - Modern web development techniques and practices
-- Technologies: HTML, CSS, JavaScript, Responsive Design
+- Technologies: JavaScript, EJS, Node.js 
 - Cross-browser compatibility and responsive design
 
 ### 🔬 [Advanced ML Research Project](https://github.com/AnnMariDB/MLG382-Project-Nr-2)
